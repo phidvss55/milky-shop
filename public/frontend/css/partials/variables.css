@@ -1,0 +1,20 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-size: 12px;
+    font-family: "Roboto";
+    color: #444;
+    font-weight: 400;
+}
+
+:root {
+    --dark-background-color: #2E2EFE;
+    --light-background-color: rgb(61, 144, 227);
+    --lighter-background-color: #d9edf7;
+    --border-lighter-color: #bce8f1;
+    --letter-color: #3a87ad;
+ 
+    --red-background-color: #d30029;
+    --shadow-color: 0px 10px 30px rgba(118, 85, 225, 0.3);
+    --box-shadow: 0px 10px 30px rgba(57, 56, 61, 0.205);
+}
